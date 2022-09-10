@@ -1,2 +1,6 @@
 # Book-recommendation-app
-Created with CodeSandbox
+  
+A book recommendation app made with react.📚  
+The data is not coming from a server, so the collection small for now.  
+  
+see live project: https://czufwf.csb.app/
